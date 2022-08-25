@@ -4,6 +4,7 @@ body {
 
 .heading {
     text-align: center;
+    color:white;
 }
 
 .container {
@@ -16,7 +17,8 @@ body {
     height: 85px;
     font-size: 40px;
     text-align: center;
-    background-color: grey;
+    color:white;
+    background-color: rgb(90, 68, 68);
 }
 
 button {
@@ -32,7 +34,7 @@ button {
 }
 
 .inside :nth-child(4n) {
-    background-color: rgb(189, 36, 36);
+    background-color: rgb(231, 53, 53);
 
 }
 
